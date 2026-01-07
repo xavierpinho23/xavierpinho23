@@ -13,17 +13,13 @@ Originally from Portugal.
 🎓 Education:
 - BSc: Biomedical Engineering at University of Coimbra
 - MSc: Bioinformatics and Clinical Informatics at the University of Coimbra
-And additionally 2 years of studying Biochemistry.
+- Plus 2 years of Biochemistry studying.
 
 🔬 My main interests are:
 - Machine Learning
 - Natural Language Processing
 - Text Mining
 - Large Language Models
-  
-📫 How to reach me:
-- LinkedIn
-- Email 
 
 ## 🔬 Publications and Research
 
@@ -37,8 +33,9 @@ And additionally 2 years of studying Biochemistry.
 
 ## 🛠️ Teach Stack
 
-- Progamming Languages: Python, R, MatLab, Java
-- Machine Learning and Deep Learning: scikit-learn, PyTorch, TensorFlow, Keras, XGBoost, Hugging Face, LangChain, Pandas, Numpy, Docker
-- Data Visualization and Tool Development: Plotly, Streamlit, Seaborn, Matplotlib, ggplot2
+- Progamming Languages: `Python`, `R`, `MatLab`, `Java`
+- Machine Learning and Deep Learning: `scikit-learn`, `PyTorch`, `TensorFlow`, `Keras`, `XGBoost`, `Hugging Face`, `LangChain`, `Pandas`, `Numpy`, `Docker`
+- Data Visualization and Tool Development: `Plotly`, `Streamlit`, `Seaborn`, `Matplotlib`, `ggplot2`
 
-- 
+--- 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=xavierpinho23)
